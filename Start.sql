@@ -1,0 +1,1 @@
+SELECT knowledge FROM knowledge WHERE knowledge.id = 1;
